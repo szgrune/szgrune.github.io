@@ -1,0 +1,7 @@
+sass:
+  style: :expanded
+  sass_dir: /assets/css
+title: Your awesome title
+
+
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "CNAME"]
